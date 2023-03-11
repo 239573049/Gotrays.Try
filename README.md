@@ -95,3 +95,12 @@ app.Services.UseServiceProvider();
 ## 演示地址
 
 [进入](http://code.tokengo.top:81/)
+
+## 技术交流
+
+欢迎.NET爱好者一块分享知识
+
+.Net Core QQ：737776595
+wx: wk28u9123456789
+
+![cf834c712272d1451beaef84b02108d](https://user-images.githubusercontent.com/61819790/224496212-e031bd8e-04ba-45c9-9c16-a4e5d6b77308.jpg)
