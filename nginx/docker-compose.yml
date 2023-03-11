@@ -1,0 +1,9 @@
+services:
+  nginx:
+    image: nginx:stable-alpine
+    container_name: nginx
+    restart: always
+    volumes:
+      - ./conf.d:/etc/nginx/conf.d
+    ports:
+      - 8808:80
